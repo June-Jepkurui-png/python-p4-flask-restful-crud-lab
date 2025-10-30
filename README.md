@@ -1,6 +1,6 @@
 # REST CRUD Lab
 
-## Learning Goals
+##  Learning Goals 
 
 - Build RESTful APIs that are easy to navigate and use in applications.
 - Develop a Flask API with successful frontend connections via `fetch()`.
